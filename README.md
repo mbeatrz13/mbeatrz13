@@ -8,9 +8,8 @@ Hope u enjoy my profile.
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbeatrz13&layout=compact)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbeatrz13&layout=compact)
 
-[Veja especificações do hardware](./hardware.md)
 
 
 <!---
