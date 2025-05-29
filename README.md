@@ -11,7 +11,7 @@ Pronouns: she/her
 **I believe in learning out loud — sharing knowledge, projects, and discoveries with the community.  
 Thanks for visiting my profile!**
 
-🔗 [LinkedIn]((https://www.linkedin.com/in/mariabeatrizlpaula/))
+🔗 [LinkedIn](https://www.linkedin.com/in/mariabeatrizlpaula/)
 
 
 ##
