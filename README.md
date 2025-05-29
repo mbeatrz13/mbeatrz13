@@ -1,22 +1,22 @@
-### Hey there! I'm @mbeatrz13
+### Hey there! I'm Beatriz!
 
 I'm a Computer Science student passionate about front-end development, data science, and neuroscience — an uncommon mix that keeps me curious and inspired.
-
 Currently, I'm learning and building with HTML, CSS, JavaScript, and Python, exploring the intersection of code, creativity, and meaningful impact.
-
 I'm also working as a systems intern at Hospital Rio Grande, where I apply my knowledge to real-world challenges and keep growing every day.
 
 Pronouns: she/her
 
-I believe in learning out loud — sharing knowledge, projects, and discoveries with the community.  
-Thanks for visiting my profile!
+**I believe in learning out loud — sharing knowledge, projects, and discoveries with the community.  
+Thanks for visiting my profile!**
 
 🔗 [LinkedIn]((https://www.linkedin.com/in/mariabeatrizlpaula/))
 
 
 
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbeatrz13&layout=compact)
+##
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbeatrz13&layout=compact)
 
 
 ## 🧠 Skills:
