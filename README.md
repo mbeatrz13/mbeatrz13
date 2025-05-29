@@ -1,3 +1,5 @@
+<div align="center">
+  
 ### Hey there! I'm Beatriz!
 
 I'm a Computer Science student passionate about front-end development, data science, and neuroscience — an uncommon mix that keeps me curious and inspired.
@@ -12,16 +14,16 @@ Thanks for visiting my profile!**
 🔗 [LinkedIn]((https://www.linkedin.com/in/mariabeatrizlpaula/))
 
 
-
-
 ##
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbeatrz13&layout=compact)
 
-
-## 🧠 Skills:
+</div>
 
 <div align="center">
+  
+## 🧠 Skills:
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5" />
@@ -33,9 +35,9 @@ Thanks for visiting my profile!**
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino" />
 </div>
 
-## 🖥️ Workspace Specifications:
-
 <div align="center">
+  
+## 🖥️ Workspace Specifications:
 
   <img src="https://img.shields.io/badge/WINDOWS%2011-_-gray?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/ACER%20ASPIRE%205-_-0078D4?style=for-the-badge&logo=acer&logoColor=white" />
