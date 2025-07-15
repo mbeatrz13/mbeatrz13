@@ -16,7 +16,7 @@ Thanks for visiting my profile!**
 
 ##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbeatrz13&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbeatrz13&layout=compact&cache_seconds=1)
 
 </div>
 
