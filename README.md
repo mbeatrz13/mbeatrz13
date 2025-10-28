@@ -4,7 +4,7 @@
 
 I'm a Computer Science student passionate about front-end development, data science, and neuroscience — an uncommon mix that keeps me curious and inspired.
 Currently, I'm learning and building with HTML, CSS, JavaScript, and Python, exploring the intersection of code, creativity, and meaningful impact.
-I'm also working as a systems intern at Hospital Rio Grande, where I apply my knowledge to real-world challenges and keep growing every day.
+I'm also working as a systems intern at Eureca, where I apply my knowledge to real-world challenges and keep growing every day.
 
 Pronouns: she/her
 
