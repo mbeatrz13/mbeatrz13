@@ -2,11 +2,11 @@
 
 # 👋 Hey there! I'm **Beatriz**  
 
-🎓 *Computer Science student* passionate about **front-end development**, **data science**, and **neuroscience** — an uncommon mix that keeps me curious and inspired.  
-💻 Currently, I’m learning and building with **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, and **Python**, exploring the intersection of code, creativity, and meaningful impact.  
-🚀 I’m also working as a **Systems Intern at Eureca**, applying my knowledge to real-world challenges and growing every day.
+*Computer Science student* passionate about **front-end development**, **data science**, and **neuroscience** — an uncommon mix that keeps me curious and inspired.  
+Currently, I’m learning and building with **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, and **Python**, exploring the intersection of code, creativity, and meaningful impact.  
+I’m also working as a **Systems Intern at Eureca**, applying my knowledge to real-world challenges and growing every day.
 
-✨ *I believe in learning out loud — sharing knowledge, projects, and discoveries with the community.*  
+ *I believe in learning out loud — sharing knowledge, projects, and discoveries with the community.*  
 
 📎 [LinkedIn](https://www.linkedin.com/in/mariabeatrizlpaula/)  
 📧 **Pronouns:** she/her  
@@ -39,7 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" title="SQL Server" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" title="SQLite" />
 
   <!-- Outros -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" title="Arduino" />
@@ -60,7 +59,6 @@
 
 ---
 
-🌱 *“Code with curiosity, build with purpose.”*
 
 </div>
 
