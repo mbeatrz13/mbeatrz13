@@ -2,7 +2,7 @@
 
 # 👋 Hey there! I'm **Beatriz**  
 
-*Computer Science student* passionate about **front-end development**, **data science**, and **neuroscience** — an uncommon mix that keeps me curious and inspired.  
+*Computer Science student* passionate about **front-end development**, **data science**, and **neuroscience**.
 Currently, I’m learning and building with **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, and **Python**, exploring the intersection of code, creativity, and meaningful impact.  
 I’m also working as a **Systems Intern at Eureca**, applying my knowledge to real-world challenges and growing every day.
 
