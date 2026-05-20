@@ -3,26 +3,23 @@
 <p align="center">
   <em>Computer Science student at UERN, building my path through <strong>full-stack</strong> and <strong>backend development</strong>.</em><br/>
   I work with <strong>React</strong>, <strong>TypeScript</strong>, <strong>Python/Django</strong> and <strong>PostgreSQL</strong>,<br/>
-  Neuroscience and Data Enthusiast.<br>
-  and I'm always looking for projects where design meets solid, well-structured code.<br/>
+  <strong>Neuroscience</strong> and <strong>Data Enthusiast</strong>.<br>
+  I'm always looking for projects where design meets solid, well-structured code.<br/>
   Currently gaining hands-on experience as a <strong>Systems Intern at Eureca</strong>.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/beatriz-de-paula">🔗 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="[https://www.linkedin.com/in/beatriz-de-paula](https://www.linkedin.com/in/mariabeatrizlpaula/?skipRedirect=true)">🔗 LinkedIn</a> &nbsp;|&nbsp;
   <strong>Pronouns:</strong> she/her
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mbeatrz13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbeatrz13&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-pi-59.vercel.app/api?username=mbeatrz13&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-pi-59.vercel.app/api/top-langs/?username=mbeatrz13&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </p>
-
----
 
 ## 🧠 Tech Stack
 
