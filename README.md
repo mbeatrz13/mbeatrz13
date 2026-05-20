@@ -9,10 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/mariabeatrizlpaula/?skipRedirect=true]">🔗 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/mariabeatrizlpaula/">🔗 LinkedIn</a> &nbsp;|&nbsp;
   <strong>Pronouns:</strong> she/her
 </p>
-
 ---
 ## 📊 GitHub Stats
 
