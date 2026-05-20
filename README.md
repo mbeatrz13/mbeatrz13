@@ -1,68 +1,52 @@
-<div align="center">
+<h1 align="center">👋 Hey there! I'm Beatriz</h1>
 
-# 👋 Hey there! I'm **Beatriz**  
+<p align="center">
+  <em>Computer Science student at UERN, building my path through <strong>full-stack</strong> and <strong>backend development</strong>.</em><br/>
+  I work with <strong>React</strong>, <strong>TypeScript</strong>, <strong>Python/Django</strong> and <strong>PostgreSQL</strong>,<br/>
+  Neuroscience and Data Enthusiast.<br>
+  and I'm always looking for projects where design meets solid, well-structured code.<br/>
+  Currently gaining hands-on experience as a <strong>Systems Intern at Eureca</strong>.
+</p>
 
-*Computer Science student* passionate about **front-end development**, **data science**, and **neuroscience**.
-Currently, I’m learning and building with **HTML**, **CSS**, **JavaScript**, **TypeScript**, **React**, and **Python**, exploring the intersection of code, creativity, and meaningful impact.  
-I’m also working as a **Systems Intern at Eureca**, applying my knowledge to real-world challenges and growing every day.
-
- *I believe in learning out loud — sharing knowledge, projects, and discoveries with the community.*  
-
-📎 [LinkedIn](https://www.linkedin.com/in/mariabeatrizlpaula/)  
-📧 **Pronouns:** she/her  
+<p align="center">
+  <a href="https://www.linkedin.com/in/beatriz-de-paula">🔗 LinkedIn</a> &nbsp;|&nbsp;
+  <strong>Pronouns:</strong> she/her
+</p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mbeatrz13&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mbeatrz13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbeatrz13&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 🧠 Tech Stack
 
-<div align="center">
-  
-  <!-- Linguagens -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
-
-  <!-- Frameworks e libs -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="ReactJS" title="ReactJS" />
-
-  <!-- Bancos de dados -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" title="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server" title="SQL Server" />
-
-  <!-- Outros -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino" title="Arduino" />
-  
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+</p>
 
 ---
 
 ## ⚙️ Workspace Setup
 
-<div align="center">
-
-  <img src="https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Acer%20Aspire%205-0A66C2?style=for-the-badge&logo=acer&logoColor=white" />
-  <img src="https://img.shields.io/badge/AMD%20Ryzen%207%205000%20Series-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
-
-</div>
-
----
-
-
-</div>
-
-<!---
-mbeatrz13/mbeatrz13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows11&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Acer_Aspire_5-83B81A?style=for-the-badge&logo=acer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AMD_Ryzen_7_5000-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+</p>
