@@ -12,6 +12,7 @@
   <a href="https://www.linkedin.com/in/mariabeatrizlpaula/">🔗 LinkedIn</a> &nbsp;|&nbsp;
   <strong>Pronouns:</strong> she/her
 </p>
+
 ---
 ## 📊 GitHub Stats
 
